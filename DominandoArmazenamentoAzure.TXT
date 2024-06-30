@@ -1,0 +1,38 @@
+Para dominar o armazenamento no Azure, é importante entender os diferentes serviços e funcionalidades que a plataforma oferece. Aqui estão alguns pontos-c
+
+1. Tipos de armazenamento no Azure
+Armazenamento de Blobs: A
+Armazenamento de arquivos: Arma
+Armazenamento de fila: G
+Armazenamento de mesa: A
+Principais Conceitos
+Recipientes: U
+Ações: U
+Contas: Co
+Chaves:Chave
+3. Gerenciamento de Armazenamento
+Portal do Azure: em
+CLI do Azure:Ferramen
+Azure PowerShell: Ferr
+SDKs:Kits de
+4. Segurança e Conformidade
+Criptografia de Dados:Dados
+IAM (Gerenciamento de Identidade e Acesso): Cont.
+Políticas de Retenção e Exclusão:Conf
+5. Escalabilidade e Desempenho
+Escalabilidade Automática: Se
+Desempenho de Armazenamento: O
+6. Backup e Recuperação
+Backup do Azure:Serviço
+Recuperação de Site do Azure: Ser
+7. Boas Práticas
+Estruturação dos Dados:Organizar
+Monitoramento e alertas:Configuração
+Custos: Utilizar
+Esses são os conceitos e práticas fundamentais para começar a dominar o armazenamento no Azure. Se você tiver perguntas específicas ou precisar de ajuda em um caso de uso específico, sinta-se em v
+
+
+
+
+
+
